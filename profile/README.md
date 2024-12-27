@@ -36,8 +36,16 @@ Estamos sempre abertos a novas ideias, colaborações e contribuições. Quer fa
 ---
 
 ### 🌠 Fique Conectado  
-💬 **Entre em contato:** [talitalisboapiccolo@gmail.com](talitalisboapiccolo@gmail.com) 
+💬 **Entre em contato:** [talitalisboapiccolo@gmail.com](mailto:talitalisboapiccolo@gmail.com) 
 
 ---
 
 **✨ Transformando bits em alquimia desde [2024].**  
+
+---
+
+## 🌟 Logo Animado
+
+![BitAlchemy Logo Animado](https://github.com/bitalchemy-org/bitalchemy-logo-animation.gif)
+
+---
